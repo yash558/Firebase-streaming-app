@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765183287582",
+    "project_id": "live-streaming-app-ff85c",
+    "storage_bucket": "live-streaming-app-ff85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765183287582:android:8808584997d3fa29ae290f",
+        "android_client_info": {
+          "package_name": "com.example.livestreamingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765183287582-eg8cniqgvj4ujkqsf2b05vn9i6s2va13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1STn4EVEWripsMHzkcIwxPpoopX3COk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765183287582-eg8cniqgvj4ujkqsf2b05vn9i6s2va13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
